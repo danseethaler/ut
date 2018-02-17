@@ -12,14 +12,10 @@
     "test": "jest",
     "build": "babel src --presets babel-preset-env --out-dir dist"
   },
-  "keywords": [
-    "utilities"
-  ],
+  "keywords": ["utilities"],
   "author": "Dan Seethaler <dan@seethalers.com> (https://danseethaler.com/)",
   "license": "MIT",
-  "files": [
-    "dist"
-  ],
+  "files": ["dist"],
   "dependencies": {},
   "devDependencies": {
     "babel-cli": "^6.26.0",
